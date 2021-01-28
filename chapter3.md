@@ -1,0 +1,3 @@
+capitulo 3
+
+By submitting this form, you confirm that you agree to the processing of your personal data by Axway as described in our privacy notice. Axway will process your personal information for carefully considered and specific purposes that are in our interests and enable us to enhance the services we provide, but which we believe also for your benefit. You acknowledge that we may transfer your profile information to Axway legal entities and our service providers for administrative purposes only. Please note that if you no longer wish to receive our emails you may update your email preferences at any time.
