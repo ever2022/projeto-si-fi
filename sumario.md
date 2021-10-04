@@ -5,6 +5,8 @@ chap3
 um
 dois
 tres
+tres
+quatro
 README
 cinco
 
